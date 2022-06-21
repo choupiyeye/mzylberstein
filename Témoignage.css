@@ -1,0 +1,44 @@
+a 
+{
+   text-decoration: none;
+   color: red;
+   font-style: italic;
+}
+
+a:hover /* Apparence au survol des liens */
+{
+   text-decoration: underline;
+   color: green;
+   font-weight:bold;
+}
+a:visited /* Quand le visiteur a déjà vu la page concernée */
+{
+    color: rgb(84, 109, 192); /* Appliquer une couleur grise */
+}
+ul {
+    border: 1px solid rgb(8, 8, 8);
+    box-shadow: 6px 6px 0px black;
+ 
+    display: flex;
+  
+    background: #011603;
+   
+    justify-content: space-around;
+    padding: 12px;
+  }
+  
+  ul li {
+    list-style: none; 
+  }
+  img{
+    display: block;
+    margin: 0px auto;
+   }
+   body{
+    background-color: #969996;
+    
+}
+iframe{
+  display: flex;
+    margin: auto;
+}
