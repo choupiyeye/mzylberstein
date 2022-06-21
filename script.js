@@ -1,8 +1,8 @@
-const icone = document.querySelector(".menu-burger i")
+/*const icone = document.querySelector(".menu-burger i")
 icone.addEventListener("click",function(){
     console.log("icone cliqué");
     modal.class.toogle("change-modal");
-});
+}); */
 
 /*"Merci de nous avoir envoyé un message. Je ne pourrais pas y répondre.";
 
