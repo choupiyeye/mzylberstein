@@ -45,3 +45,14 @@ body{
     background-color: #969996;
     
 }
+.tir img{
+    border-radius: 50%;
+    display: block;
+    margin: 0px auto;
+
+}
+.parc img{
+    border-radius: 50%;
+    display: block;
+    margin: 0px auto;
+}
