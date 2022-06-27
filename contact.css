@@ -45,7 +45,13 @@ body{
     background-color: #969996;
     
 }
-.contact{
-    display: flex;
-    margin: auto;
+#contact{
+    /* Uniquement centrer le formulaire sur la page */
+  margin: 0 auto;
+  width: 400px;
+  /* Encadré pour voir les limites du formulaire */
+  padding: 1em;
+  border: 1px solid #CCC;
+  border-radius: 1em;
+  text-align: center;
 }
