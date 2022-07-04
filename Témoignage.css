@@ -48,12 +48,16 @@ iframe{
   border-radius: 1em;
   text-align: flex-start;
   background-color: aliceblue;
-    
+  position: relative;
 }
+
 .texte{
+  -webkit-clip-path:url(#bubbleClip);
+  clip-path: url(#bubbleClip);
   padding: 1em;
   border: 1px solid rgb(0, 0, 0);
   border-radius: 1em;
   text-align: flex-start;
   background-color: aliceblue;
+  position: relative;
 }
