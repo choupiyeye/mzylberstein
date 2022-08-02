@@ -47,3 +47,11 @@ ul {
     background-color: #969996;
     
 }
+.texte{
+  padding: 1em;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 1em;
+  text-align: flex-start;
+  background-color: aliceblue;
+  position: relative;
+}
